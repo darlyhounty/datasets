@@ -1,0 +1,81 @@
+Floor,Name,Level,HP,MP,PDR,MDR,EXP,img
+1,Mano,100,"5,200,000",2800,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/3/32/MS_Monster_Mano.png
+2,Mushmom,102,"5,740,800",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/7/7d/MS_Monster_Mushmom.png
+3,Stumpy,104,"6,307,200",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/5/5a/MS_Monster_Stumpy.png
+4,Blue Mushmom,106,"6,930,000",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/f/f7/MS_Monster_Blue_Mushmom.png
+5,Zombie Mushmom,108,"7,549,200",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/1/17/MS_Monster_Zombie_Mushmom.png
+6,King Slime,110,"12,342,000",3000,50%,50%,0,https://strategywiki.org/wiki/File:MS_Monster_King_Slime.png
+7,Dyle,113,"13,923,000",3000,50%,50%,0,https://strategywiki.org/wiki/File:MS_Monster_Dyle.png
+8,King Clang,115,"15,105,000",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/d5/MS_Monster_King_Clang.png
+9,Faust,118,"16,846,800",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/5/54/MS_Monster_Faust.png
+10,Von Leon,120,"100,000,000",3000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/0/0c/MS_Monster_Von_Leon.png
+11,Metal Golem,120,"40,824,000",3000,50%,50%,0,https://strategywiki.org/wiki/File:MS_Monster_Metal_Golem.png
+12,Snack Bar,123,"45,404,550",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/dc/MS_Monster_Snack_Bar.png
+13,Jr. Balrog,125,"48,593,250",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/0/08/MS_Monster_Jr._Balrog.png
+14,Eliza,128,"55,350,000",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/5/5a/MS_Monster_Eliza.png
+15,Crimson Balrog,130,"61,600,500",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/a/a4/MS_Monster_Crimson_Balrog.png
+16,Snow Witch,132,"68,121,000",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/9/9b/MS_Monster_Snow_Witch.png
+17,Seruf,135,"78,840,000",4000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/f/f0/MS_Monster_Seruf.png
+18,Deo,138,"90,011,250",6000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/f/fb/MS_Monster_Deo.png
+19,Papa Pixie,140,"97,902,000",6000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/2/24/MS_Monster_Papa_Pixie.png
+20,Hilla,143,"1,500,000,000",6000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/ce/MS_Monster_Hilla.png
+21,Deet ,145,"130,536,000",6000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/5/5f/MS_Monster_Deet_and_Roi.png
+22,Chimera ,148,"159,138,000",8000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/6/69/MS_Monster_Chimera.png
+23,Frankenroid,150,"190,350,000",10000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/de/MS_Monster_Frankenroid.png
+24,Primitive Boar,153,"242,424,000",12000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/3/31/MS_Monster_Chao.png
+25,Ephenia ,155,"405,504,000",14000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/2/24/MS_Monster_Ephenia.png
+26,Rombot ,158,"497,040,000",16000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/da/MS_Monster_Rombot.png
+27,Timer,160,"596,496,000",18000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/9/97/MS_Monster_Timer.png
+28,Master Specter ,163,"706,176,000",20000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/a/ac/MS_Monster_Master_Specter.png
+29,Master Birk,165,"824,256,000",20000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/ca/MS_Monster_Master_Birk.png
+30,Arkarium,168,"3,000,000,000	",20000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/c1/MS_Monster_Arkarium.png
+31,Manon,170,"2,108,240,000",20000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/e/e3/MS_Monster_Manon.png
+32,Griffey,175,"2,526,520,000",30000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/3/34/MS_Monster_Griffey.png
+33,Xerxes,180,"2,976,000,000",30000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/a/ad/MS_Monster_Xerxes.png
+34,Papulatus,185,"3,464,920,000",35000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/b/b6/MS_Monster_Papulatus_Clock.png
+35,Alishar,190,"3,986,640,000",35000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/8/8e/MS_Monster_Alishar.png
+36,Snowman,195,"4,551,000,000",40000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/e/e4/MS_Monster_Snowman.png
+37,Riche,200,"5,149,760,000",40000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/e/e3/MS_Monster_Riche.png
+38,Prison Guard Ani,205,"6,474,960,000",45000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/a/a8/MS_Monster_Prison_Guard_Ani.png
+39,King Omen,210,"7,971,840,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/9/9d/MS_Monster_King_Omen.png
+40,Magnus,215,"8,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/b/b6/MS_Monster_Magnus.png
+41,Targa,220,"42,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/4/4e/MS_Monster_Furious_Targa.png
+42,Scarboss,220,"63,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/7/74/MS_Monster_Furious_Scarlion_Boss.png
+43,King Sage Cat,220,"84,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/e/e6/MS_Monster_King_Sage_Cat.png
+44,Lord Pirate,220,"105,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/6/6e/MS_Monster_Lord_Pirate.png
+45,Ravana,220,"105,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/4/40/MS_Monster_Ravana.png
+46,Leviathan,230,"210,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/2/29/MS_Monster_Leviathan.png
+47,Dodo,230,"315,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/2/22/MS_Monster_Dodo.png
+48,Lilynouch,230,"420,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/c9/MS_Monster_Lilynouch.png
+49,Lyka,230,"525,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/7/75/MS_Monster_Lyka.png
+50,Pink Bean,230,"525,000,000,000",50000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/a/a0/MS_Monster_Pink_Bean.png
+51,Spirit of Rock,240,"630,000,000,000",60000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/c5/MS_Monster_Spirit_of_Rock.png
+52,Tarantulus,240,"735,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/de/MS_Monster_Tarantulus.png
+53,Dragonoir,240,"840,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/0/0f/MS_Monster_Dragonoir.png
+54,Dragon Rider,240,"945,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/6/63/MS_Monster_Dragon_Rider.png
+55,Hawkeye,240,"1,050,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/c/ce/MS_Monster_Hawkeye.png
+56,Eckhart,245,"1,155,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/6/60/MS_Monster_Eckhart.png
+57,Irena,245,"1,260,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/7/78/MS_Monster_Irena.png
+58,Oz,245,"1,365,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/5/5c/MS_Monster_Oz.png
+59,Mihile,245,"1,470,000,000,000",55000,50%,50%,0,https://cdn.wikimg.net/en/strategywiki/images/d/dc/MS_Monster_Mihile.png
+60,Cygnus,245,"1,575,000,000,000",55000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/f/f9/MS_Monster_Cygnus.png
+61,Pianus,250,"1,680,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/9/90/MS_Monster_Pianus_%28Right_Side%29.png
+62,Rex,250,"1,785,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/6/67/MS_Monster_Rex.png
+63,Kawoong,250,"1,890,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/6/6b/MS_Monster_OMNI-CLN.png
+64,Ghostwood Stumpy,250,"1,911,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/b/bc/MS_Monster_Ghostwood_Stumpy.png
+65,Sky Guardian,250,"1,932,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/6/63/MS_Monster_Sky_Guardian.png
+66,Demolishizer,255,"1,953,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/9/99/MS_Monster_Demolishizer.png
+67,Dark Demon Wolfmaster,255,"1,974,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/1/1f/MS_Monster_Dark_Demon_Wolfmaster.png
+68,Arma,255,"1,995,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/e/e4/MS_Monster_Arma.png
+69,Slurpy Tree,255,"2,016,000,000,000",60000,100%,100%,0,https://cdn.wikimg.net/en/strategywiki/images/2/22/MS_Monster_Slurpy_Tree.png
+70,Lotus,255,"2,100,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/9/93/MS_Monster_Lotus.png
+71,Dreamkeeper,260,"2,310,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/d/db/MS_Monster_Dreamkeeper.png
+72,Corrupt Spirit of Harmony,260,"2,625,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/9/92/MS_Monster_Corrupt_Spirit_of_Harmony.png
+73,Vanishing Erda,260,"2,940,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/0/05/MS_Monster_Vanishing_Erda.png
+74,Alang,260,"3,255,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/2/23/MS_Monster_Alang.png
+75,Bonsun,260,"3,570,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/a/a3/MS_Monster_Bonsun.png
+76,Wukong,260,"3,885,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/6/6a/MS_Monster_Wukong.png
+77,Sondal,260,"4,200,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/3/30/MS_Monster_Sondal.png
+78,Gold Dragon,260,"4,550,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/a/aa/MS_Monster_Gold_Dragon.png
+79,Red Tiger,260,"4,900,000,000,000",60000,150%,150%,0,https://cdn.wikimg.net/en/strategywiki/images/b/b3/MS_Monster_Red_Tiger.png
+80,Mu Gong,260,"5,250,000,000,000",60000,200%,200%,0,https://cdn.wikimg.net/en/strategywiki/images/0/0d/MS_Monster_Mu_Gong.png
